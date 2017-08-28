@@ -1,2 +1,21 @@
+/*-----------------------------helpers----------------------------*/
+@import "helpers/mixins";
+@import "helpers/variables";
+
+/*-----------------------------components----------------------------*/
+@import "components/buttons";
+
+/*-----------------------------fonts----------------------------*/
 @import "fonts/fonts";
-@import "sections/about";
+
+/*-----------------------------forms----------------------------*/
+@import "forms/forms";
+
+/*-----------------------------layout----------------------------*/
+@import "layout/layout";
+
+/*-----------------------------sections----------------------------*/
+@import "sections/footer";
+@import "sections/header";
+@import "sections/page";
+@import "sections/sidebar";
