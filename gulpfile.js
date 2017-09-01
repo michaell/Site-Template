@@ -35,7 +35,8 @@ let vendorJs = [
 //pathes to outer plugins and style libraries
 let vendorCss = [
     'node_modules/normalize-css/normalize.css',
-    'node_modules/owl.carousel/dist/assets/owl.carousel.css'
+    'node_modules/owl.carousel/dist/assets/owl.carousel.css',
+    'node_modules/owl.carousel/dist/assets/owl.theme.default.min.css'
 ];
 
 //server
